@@ -4,6 +4,7 @@ title: Moeiteloos Aanmelden voor Uw Thema-avond of Lezing
 subtitle: De slimme manier om gasten te registreren zonder verplichte logins
 tags: [evenementenbeheer, aanmeldingen]
 author: ijoin.app
+language: nl
 ---
 
 # Maximaliseer Deelname aan Uw Thema-avonden met [ijoin.app](https://ijoin.app/index-nl.html)

@@ -4,6 +4,7 @@ title: De Ultieme Oplossing voor Stressvrije Kinderfeestjes Organiseren
 subtitle: Maximale Opkomst en Minimale Gedoe- Eenvoudig RSVP-beheer voor Ouders
 tags: [feestorganisatie, rsvp-tool]
 author: ijoin.app
+language: nl
 ---
 # Stop met Jagen op Antwoorden- Hoe [ijoin.app](https://ijoin.app/index-nl.html) Uw Feestplanning Transformeert
 

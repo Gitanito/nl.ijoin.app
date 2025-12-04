@@ -4,6 +4,7 @@ title: Nooit meer gissen wie er komt- De perfecte RSVP voor elke Boekclub
 subtitle: Maximaliseer de opkomst voor uw wekelijkse community-evenementen met één simpele link
 tags: [Boekclub organisatie, Evenementen plannen]
 author: ijoin.app
+language: nl
 ---
 
 # De Frustratie Vrij- RSVP's voor Boekclubs en Community Bijeenkomsten

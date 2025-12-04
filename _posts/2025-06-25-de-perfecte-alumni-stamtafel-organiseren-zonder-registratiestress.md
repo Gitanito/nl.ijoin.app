@@ -4,6 +4,7 @@ title: De Perfecte Alumni Stamtafel Organiseren - Zonder Registratiestress
 subtitle: Maximaliseer de opkomst bij uw volgende netwerkevent met één simpele link
 tags: [Alumni, Event Organisatie]
 author: ijoin.app
+language: nl
 ---
 
 # De Frustratie Vrij Alumni Stamtafel- Organisatie

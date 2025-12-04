@@ -4,6 +4,7 @@ title: De Slimme Oplossing voor het Coördineren van Vervoer
 subtitle: Nooit meer stress met het regelen van carpooling voor sport of pendelen
 tags: [carpoolen, evenementenbeheer]
 author: ijoin.app
+language: nl
 ---
 
 # De Eenvoudige Manier om Rijafspraken te Organiseren

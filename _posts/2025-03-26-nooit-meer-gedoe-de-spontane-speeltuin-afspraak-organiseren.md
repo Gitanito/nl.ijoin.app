@@ -4,6 +4,7 @@ title: Nooit Meer Gedoe- De Spontane Speeltuin Afspraak Organiseren
 subtitle: Maximale opkomst bij ouder-kind uitjes zonder de frustratie van groepschats
 tags: [Speeltuin afspraak, Evenementen organiseren]
 author: ijoin.app
+language: nl
 ---
 
 # De Spontane Speeltuin Afspraak- Plan Eenvoudig Ouder-Kind Uitjes

@@ -4,6 +4,7 @@ title: Nooit meer handmatig tellen- Organiseer je After-Work Borrel moeiteloos
 subtitle: De simpele, gratis manier om collega's samen te brengen zonder gedoe met lijsten of logins
 tags: [Eventorganisatie, Afterwork]
 author: ijoin.app
+language: nl
 ---
 # Deel de perfecte After-Work Borrel- Link, aanmelden, klaar!
 

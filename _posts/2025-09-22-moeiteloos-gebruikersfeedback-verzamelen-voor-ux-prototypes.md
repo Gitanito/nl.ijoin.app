@@ -4,6 +4,7 @@ title: Moeiteloos Gebruikersfeedback Verzamelen voor UX-Prototypes
 subtitle: De snelle manier om uw Productideeën te valideren zonder gedoe
 tags: [UX-Design, Productvalidatie]
 author: ijoin.app
+language: nl
 ---
 
 # Moeiteloos Gebruikersfeedback Verzamelen voor UX-Prototypes

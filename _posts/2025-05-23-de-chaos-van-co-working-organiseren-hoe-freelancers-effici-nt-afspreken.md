@@ -4,6 +4,7 @@ title: De Chaos van Co-Working Organiseren- Hoe Freelancers Efficiënt Afspreken
 subtitle: Nooit meer eindeloze WhatsApp-groepen voor jullie spontane co-working sessies
 tags: [co-working, event management]
 author: ijoin.app
+language: nl
 ---
 
 # De Chaos van Co-Working Organiseren: Hoe Freelancers Efficiënt Afspreken

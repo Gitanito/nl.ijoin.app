@@ -4,6 +4,7 @@ title: Stop de aanmeldingsstress voor je Töpferkurs - Zo doe je het slimmer
 subtitle: Maximaliseer de deelname aan je workshops met een eenvoudige link
 tags: [Event Organisatie, Keramiek Cursus]
 author: ijoin.app
+language: nl
 ---
 
 # Stop de aanmeldingsstress voor je Töpferkurs - Zo doe je het slimmer

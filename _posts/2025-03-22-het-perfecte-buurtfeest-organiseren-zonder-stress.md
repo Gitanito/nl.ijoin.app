@@ -4,6 +4,7 @@ title: Het Perfecte Buurtfeest Organiseren Zonder Stress
 subtitle: Hoe u de aanmeldingen en taken voor uw evenement moeiteloos beheert
 tags: [evenementenplanning, buurtfeest]
 author: ijoin.app
+language: nl
 ---
 
 # Geen Chaos Meer- Het Stratenfeest Waar Iedereen Aan Meedoet

@@ -4,6 +4,7 @@ title: Moeiteloos Oudergesprekken Plannen Zonder Gedoe
 subtitle: Maximaliseer de opkomst bij de Ouderavond met Simpele Online Planning
 tags: [Oudergesprekken, Eventplanning]
 author: ijoin.app
+language: nl
 ---
 
 # Zeg Vaarwel tegen Planningstress voor Oudergesprekken

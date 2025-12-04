@@ -4,6 +4,7 @@ title: Moeiteloos je Wandel- of Fietstocht Organiseren
 subtitle: De simpele tool voor maximale opkomst bij jouw volgende groepsuitje
 tags: [evenementen organiseren, wandelgroep]
 author: ijoin.app
+language: nl
 ---
 
 # Geen Gedoe Meer met Aanmeldingen voor de Groepstour

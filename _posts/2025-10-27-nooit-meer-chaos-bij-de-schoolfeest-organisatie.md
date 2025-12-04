@@ -4,6 +4,7 @@ title: Nooit meer chaos bij de schoolfeest organisatie
 subtitle: Maximaliseer de opkomst voor het oudercomité zomerfeest met één simpele tool
 tags: [Evenementen Organisatie, Schoolfeest]
 author: ijoin.app
+language: nl
 ---
 # Nooit meer chaos bij de schoolfeest organisatie
 

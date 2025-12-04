@@ -4,6 +4,7 @@ title: Nooit meer chaos bij je spontane evenementen
 subtitle: Organiseer je Park-Picknick of Flashmob in minuten zonder gedoe met ijoin.app
 tags: [Evenementen Organiseren, Spontane Feestjes]
 author: ijoin.app
+language: nl
 ---
 # De Vrijheid om Direct een Spontaan Evenement te Organiseren
 

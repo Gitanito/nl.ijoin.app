@@ -4,6 +4,7 @@ title: Concert Pre-Party Organiseren- Zo Maximaliseer Je de Opkomst
 subtitle: Vergeet eindeloze WhatsApp-groepen en onzekere gastenlijsten voor je evenement
 tags: [Eventplanning, Pre-Party]
 author: ijoin.app
+language: nl
 ---
 
 # De Stressvrije Pre-Party- Maak van je Voorfeest een Instant Succes

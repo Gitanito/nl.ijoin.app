@@ -4,6 +4,7 @@ title: Stop met de Chaos- Hoe je Skill-Share Evenementen moeiteloos organiseert
 subtitle: Maximaliseer de opkomst voor je lokale workshops zonder gedoe met aanmeldingen
 tags: [Skill-Share, Evenementen Organiseren]
 author: ijoin.app
+language: nl
 ---
 # Haal Meer Deelnemers Naar Je Lokale Skill-Share Sessies – Zonder Gedoe
 

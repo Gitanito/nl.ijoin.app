@@ -4,6 +4,7 @@ title: Nooit meer chaos- De perfecte uitnodiging voor jouw spontane BBQ
 subtitle: Organiseer moeiteloos je volgende spontane evenement zonder gedoe met antwoorden
 tags: [Evenementen Organiseren, RSVP Tool]
 author: ijoin.app
+language: nl
 ---
 # De Vrijheid van Spontaan Organiseren- Hoe je direct resultaat boekt
 

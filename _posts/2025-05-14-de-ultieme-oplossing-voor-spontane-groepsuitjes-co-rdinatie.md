@@ -4,6 +4,7 @@ title: De Ultieme Oplossing voor Spontane Groepsuitjes Coördinatie
 subtitle: Maximaliseer de Opkomst bij Last-Minute Borrels en Avonden
 tags: [event-planning, spontaniteit]
 author: ijoin.app
+language: nl
 ---
 
 # De Ultieme Oplossing voor Spontane Groepsuitjes Coördinatie

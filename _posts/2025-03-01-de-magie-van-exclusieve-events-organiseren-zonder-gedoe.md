@@ -4,6 +4,7 @@ title: De Magie van Exclusieve Events Organiseren Zonder Gedoe
 subtitle: Hoe u moeiteloos een hoogwaardig Pop-up Diner of Netwerkbijeenkomst vult
 tags: [event-organisatie, pop-up-dinner]
 author: ijoin.app
+language: nl
 ---
 
 # De Magie van Exclusieve Events Organiseren Zonder Gedoe

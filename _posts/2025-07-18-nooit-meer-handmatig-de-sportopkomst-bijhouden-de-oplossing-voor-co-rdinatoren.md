@@ -4,6 +4,7 @@ title: Nooit meer handmatig de sportopkomst bijhouden - De oplossing voor coörd
 subtitle: Maximaliseer de respons van ouders voor trainingen en wedstrijden zonder gedoe
 tags: [Sportteam Planning, Event Organisatie]
 author: ijoin.app
+language: nl
 ---
 
 # Optimaliseer de Aanwezigheidsregistratie voor uw Sportteam

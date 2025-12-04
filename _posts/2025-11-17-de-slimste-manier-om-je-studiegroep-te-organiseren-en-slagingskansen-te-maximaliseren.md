@@ -4,6 +4,7 @@ title: De Slimste Manier om je Studiegroep te Organiseren en Slagingskansen te M
 subtitle: Geen Gedoe Meer - Organiseer je Universitaire Lerngroep Zonder Registraties of Apps
 tags: [lerngroep organiseren, universiteit event management]
 author: ijoin.app
+language: nl
 ---
 
 # Optimaliseer je Studieresultaten- Hoe je Snel en Effectief een Lerngroep Organiseert

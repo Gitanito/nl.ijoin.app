@@ -4,6 +4,7 @@ title: De Eenvoudige Oplossing voor Terugkerende Evenementen
 subtitle: Nooit meer stress met aanmeldingen voor je wekelijkse bijeenkomst
 tags: [Evenementen Organiseren, Online Tools]
 author: ijoin.app
+language: nl
 ---
 # Stop met het Jagen op Aanmeldingen voor je Wekelijkse Bijeenkomst
 

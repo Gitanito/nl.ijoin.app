@@ -4,6 +4,7 @@ title: De Slimste Manier om Uw Professionele Meetup te Organiseren
 subtitle: Maximale Opkomst bij Uw Branchebijeenkomst Zonder Gedoe met Aanmeldingen
 tags: [event-organisatie, netwerkevenement]
 author: ijoin.app
+language: nl
 ---
 
 # De Slimste Manier om Uw Professionele Meetup te Organiseren

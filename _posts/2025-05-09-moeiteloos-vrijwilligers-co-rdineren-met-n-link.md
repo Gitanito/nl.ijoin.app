@@ -4,6 +4,7 @@ title: Moeiteloos Vrijwilligers Coördineren met Één Link
 subtitle: De slimme manier om buurtprojecten en spontane hulpacties te organiseren
 tags: [buurtprojecten, evenementenbeheer]
 author: ijoin.app
+language: nl
 ---
 
 # De Chaos van Buurthulp Beheersen- Nieuwsgierige Blijk van Succes

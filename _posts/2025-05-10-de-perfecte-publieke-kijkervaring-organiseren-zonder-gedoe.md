@@ -4,6 +4,7 @@ title: De Perfecte Publieke Kijkervaring Organiseren - Zonder Gedoe
 subtitle: Hoe je moeiteloos een gezamenlijk sportevenement plant en de opkomst maximaliseert
 tags: [evenementen organiseren, public viewing]
 author: ijoin.app
+language: nl
 ---
 
 # Gezamenlijk Sport Kijken - Maximaliseer de Opkomst met Eén Link

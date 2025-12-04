@@ -4,6 +4,7 @@ title: De Magie van Eenvoud- Workshops Organiseren Zonder Aanmeldstress
 subtitle: Maximaliseer je deelnemers-aantal met een event-tool zonder registratieverplichting
 tags: [workshop organisatie, evenementenbeheer]
 author: ijoin.app
+language: nl
 ---
 
 # De Creatieve Workshop-Droom- Hoe je Deelnemers Krijgt, Niet Alleen Kliks

@@ -4,6 +4,7 @@ title: Moeiteloos Vrijwilligers Werven voor de Schoolmarkt
 subtitle: Maximaliseer de opkomst van uw helpers met een simpele link
 tags: [Vrijwilligerscoördinatie, Schoolmarkt Organisatie]
 author: ijoin.app
+language: nl
 ---
 
 # Zeg Vaarwel tegen Chaos- Beheer Vrijwilligers voor Uw Schoolmarkt met Gemak

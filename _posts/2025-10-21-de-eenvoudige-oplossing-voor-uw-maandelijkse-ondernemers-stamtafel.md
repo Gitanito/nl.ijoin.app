@@ -4,6 +4,7 @@ title: De Eenvoudige Oplossing voor Uw Maandelijkse Ondernemers Stamtafel
 subtitle: Maximaliseer de Opkomst bij Uw Netwerkevents Zonder E-mail Chaos
 tags: [Netwerkevents, Stamtafel Organisatie]
 author: ijoin.app
+language: nl
 ---
 
 # Meer Betrokkenheid bij Uw Lokale Ondernemers Stamtafel

@@ -4,6 +4,7 @@ title: Eenvoudig Ritten Coördineren voor Schooluitjes en Evenementen
 subtitle: Nooit meer eindeloze e-mails voor het regelen van carpooling
 tags: [event-organisatie, carpooling]
 author: ijoin.app
+language: nl
 ---
 # Eenvoudig Ritten Coördineren voor Schooluitjes en Evenementen
 

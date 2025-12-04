@@ -4,6 +4,7 @@ title: Maximal Beta Test Deelnemers- Geen Registratie Nodig
 subtitle: Organiseer moeiteloos uw volgende informele testevenement met een eenvoudige link
 tags: [Beta Test Uitnodiging, Event Organisatie]
 author: ijoin.app
+language: nl
 ---
 
 # De Frustratie Vrijmaken van Beta Test Uitnodigingen
